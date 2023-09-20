@@ -6,7 +6,7 @@ Hello, I'm Dilpreet Singh. Data Analyst with expertise in data analysis and repo
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects.](https://github.com/DpHundal/Dilpreet-Singh/projects?query=is%3Aopen)
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/DpHundal?tab=repositories)
 
 🛠️ Tools
 
